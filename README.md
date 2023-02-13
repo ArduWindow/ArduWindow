@@ -20,7 +20,7 @@ Insira um gif ou um link de alguma demonstração
 - Multiplataforma
 
 ## Feedback/Suporte
-Para suporte ou feedback, favor enviar uma mensagem para `insita email aqui`.
+Para suporte ou feedback, favor enviar uma mensagem para `arduwindow@gmail.com`.
 
 ## Roadmap
 - Adicionar mecanismo para acoplar na janela
