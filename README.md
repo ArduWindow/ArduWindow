@@ -13,7 +13,6 @@ Projeto pessoal de automação residencial baseado na _Cultura Maker_, para abri
 
 ## Documentação
 Para acessar a [documentação do projeto](https://github.com/ArduWindow/ArduWindow/blob/main/Documentacao.md), basta clicar no link em azul
-> **Warning** EM DESENVOLVIMENTO
 
 ## Funcionalidades
 - Análise de dados em tempo real através da plataforma/aplicativo `Arduino IoT Cloud`
