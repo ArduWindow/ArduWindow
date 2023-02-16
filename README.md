@@ -9,10 +9,10 @@ Projeto pessoal de automação residencial baseado na _Cultura Maker_, para abri
 - [@vitoria-ma](https://github.com/vitoria-ma)
 
 ## Demonstração
-Insira um gif ou um link de alguma demonstração
+> **Warning** EM DESENVOLVIMENTO
 
 ## Documentação
-[Documentação](https://link-da-documentação)
+> **Warning** EM DESENVOLVIMENTO
 
 ## Funcionalidades
 - Análise de dados em tempo real através da plataforma/aplicativo `Arduino IoT Cloud`
@@ -25,6 +25,3 @@ Para suporte ou feedback, favor enviar uma mensagem para `arduwindow@gmail.com`.
 ## Roadmap
 - Adicionar mecanismo para acoplar na janela
 - Permitir controle fora da rede wi-fi doméstica
-
-## Licença
-[MIT + alterações](https://choosealicense.com/licenses/mit/)
